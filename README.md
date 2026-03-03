@@ -14,5 +14,7 @@ The analysis focuses on building structured datasets from messy external data so
 - Python/Idle  
 - pandas  
 - numpy  
-- requests (API Integration)  
+- requests (API Integration)
+- libpysal
+- spreg  
  
